@@ -1,4 +1,3 @@
-````markdown
 <p align="center">
   <a href="#"><img src="Resources/GitHub/icon.png" width="120px"></a><br>
   <a href="#"><img src="Resources/GitHub/title.png" height="60px"></a><br><br>
